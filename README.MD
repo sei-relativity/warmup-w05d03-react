@@ -59,8 +59,11 @@ export default houses;
 
 - Display a single house (start with the first in the array)
 - Create a `Next House` button that displays the next house in our houses array.
+![](https://imgur.com/QVnpdiY.gif)
+
 - Create a `Show Character` button that shows the character within the house.
 
+![](https://imgur.com/S4PMQbq.gif)
 
 ### Styling
 Add this code to your css file, notice that the styling deals with classes, so consider adding the class names to your elements
