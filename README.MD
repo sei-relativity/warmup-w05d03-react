@@ -4,7 +4,7 @@
 
 ---
 
-Create a react app that displays the different Harry Potter houses and notable characters in them with two different components <House /> and <Character />.
+Create a react app that displays the different Harry Potter houses and notable characters in them with two different components `<House />` and `<Character />`.
 
 ### Data
 - Save the following data to a separate .js file and import it to your App:
